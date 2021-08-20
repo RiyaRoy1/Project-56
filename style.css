@@ -1,0 +1,19 @@
+body {
+	  text-align: center;
+	  background-color: #f0e8c5;
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+    
+	.image-section {
+	  display: flx;
+        justify-content: space-center;
+	}
+
+    img{
+    width: 550px;
+        height: 450px;
+}
